@@ -26,8 +26,9 @@
 ---
 
 ## 📸 Screenshots
-
-> *Add screenshots of your design here if available (e.g. landing page, mobile view, etc.)*
+![image](https://github.com/Garimakushh/spamDetectionEx/blob/869dfc6a17cedcdb7747952a3db6dcf0a583ce9f/Results/Screenshot%20(102).png)
+**Result
+![image](https://github.com/Garimakushh/spamDetectionEx/blob/869dfc6a17cedcdb7747952a3db6dcf0a583ce9f/Results/Screenshot%20(107).png)
 
 ---
 
